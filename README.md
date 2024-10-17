@@ -105,7 +105,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Hyusein - [Email me](mailto:hl.dev.acc@gmail.com)
 
-Project Link: [https://github.com/hyuseinlesho/ocr-exporter-api](https://github.com/hyuseinlesho/ocr-exporter-api)
+Project Link: [https://github.com/hyuseinlesho/ocr-exporter-api](https://github.com/hyuseinleshov/ocr-exporter-api)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,6 +113,6 @@ Project Link: [https://github.com/hyuseinlesho/ocr-exporter-api](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [license-shield]: https://img.shields.io/github/license/hyuseinlesho/ocr-exporter-api.svg?style=for-the-badge
-[license-url]: https://github.com/hyuseinlesho/ocr-exporter-api/blob/main/LICENSE
+[license-url]: https://github.com/hyuseinleshov/ocr-exporter-api/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/hyuseinlesho/
+[linkedin-url]: https://www.linkedin.com/in/hyuseinleshov/
