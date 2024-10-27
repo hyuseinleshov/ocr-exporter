@@ -79,10 +79,14 @@ To get a local copy up and running, follow these steps.
 2. Clone the repo
    ```sh
    git clone https://github.com/hyuseinleshov/ocr-exporter-api
-3. Update the `application.properties` with your database and API configurations.
-4. Build and run the application
-    ```sh
-    mvn spring-boot:run
+3. Update the `application.properties` with your API and database configurations (i added it as an environment variables).
+   ```sh
+   OCR_API_KEY=your_api_key;
+   DB_USERNAME=your_username;
+   DB_PASSWORD=your_password
+5. Finally run the application
+
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
