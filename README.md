@@ -51,8 +51,6 @@ OCR Exporter is a tool built with Spring Boot that allows you to extract text fr
 The extracted text can be saved in multiple formats such as text, PDF, Word, or directly to a database.
 This tool is ideal for anyone looking to process large amounts of documents or images.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -61,8 +59,6 @@ This tool is ideal for anyone looking to process large amounts of documents or i
 * [OCR Space API](https://ocr.space/ocrapi)
 * [Maven](https://maven.apache.org/)
 * [MySQL](https://www.mysql.com/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -87,16 +83,12 @@ To get a local copy up and running, follow these steps.
     ```sh
     mvn spring-boot:run
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
