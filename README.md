@@ -77,13 +77,11 @@ To get a local copy up and running, follow these steps.
 1. Get a free API Key at [https://ocr.space/ocrapi](https://ocr.space/ocrapi)
 2. Clone the repo
    ```sh
-   git clone https://github.com/hyuseinlesho/ocr-exporter-api
+   git clone https://github.com/hyuseinleshov/ocr-exporter-api
 3. Update the `application.properties` with your database and API configurations.
 4. Build and run the application
     ```sh
     mvn spring-boot:run
-
-
 
 <!-- LICENSE -->
 ## License
@@ -97,7 +95,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Hyusein - [Email me](mailto:hl.dev.acc@gmail.com)
 
-Project Link: [https://github.com/hyuseinlesho/ocr-exporter-api](https://github.com/hyuseinleshov/ocr-exporter-api)
+Project Link: [https://github.com/hyuseinleshov/ocr-exporter-api](https://github.com/hyuseinleshov/ocr-exporter-api)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
