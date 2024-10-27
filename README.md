@@ -12,9 +12,9 @@
     A Spring Boot-based OCR Exporter tool for text extraction from images or PDFs using OCR Space API.
     <br />
     <br />
-    <a href="https://github.com/hyuseinlesho/ocr-exporter-api/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/hyuseinleshov/ocr-exporter-api/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/hyuseinlesho/ocr-exporter-api/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/hyuseinleshov/ocr-exporter-api/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -112,7 +112,7 @@ Project Link: [https://github.com/hyuseinlesho/ocr-exporter-api](https://github.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[license-shield]: https://img.shields.io/github/license/hyuseinlesho/ocr-exporter-api.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/hyuseinleshov/ocr-exporter-api.svg?style=for-the-badge
 [license-url]: https://github.com/hyuseinleshov/ocr-exporter-api/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/hyuseinleshov/
