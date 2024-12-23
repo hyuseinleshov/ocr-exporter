@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">OCR Exporter Api</h3>
+<h3 align="center">OCR Exporter</h3>
 
   <p align="center">
     A Spring Boot-based OCR Exporter tool for text extraction from images or PDFs using OCR Space API.
