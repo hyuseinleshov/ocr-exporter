@@ -70,7 +70,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Hyusein - [Email me](mailto:hl.dev.acc@gmail.com)
+[Email me](mailto:hl.dev.acc@gmail.com)
 
 Project Link: [https://github.com/hyuseinleshov/ocr-exporter-api](https://github.com/hyuseinleshov/ocr-exporter)
 
